@@ -7,7 +7,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-lms-platform.git
+https://github.com/Ben-121/LMS.git
 ```
 
 ### Install packages
